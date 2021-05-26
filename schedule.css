@@ -1,0 +1,22 @@
+.header
+	{
+		background-color: #BBD0BA;
+		font-family: Courier New;
+	}
+
+body
+	{
+		background-color: #bebebe;
+	}
+	
+	
+h1, h4, td
+	{
+		color: black;
+		text-align: center;
+		font-family: Courier New;	
+	}
+#blank
+	{
+		background-color: #E4DFD7;
+	}
