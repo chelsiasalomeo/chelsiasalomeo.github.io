@@ -22,7 +22,10 @@ h1, h4, td
 	}
 p
 	{
-		position: fixed;
+		color: black;
+		text-align: center;
+		font-family: Courier New;
+		position: absolute;
 		bottom: 0;
 		right: 0;
 		font-size: 18px;
