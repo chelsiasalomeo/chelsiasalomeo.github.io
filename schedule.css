@@ -6,7 +6,7 @@
 
 body
 	{
-		background-color: black;
+		background-color: #bebebe;
 	}
 	
 	
@@ -22,6 +22,7 @@ h1, h4, td
 	}
 p
 	{
-		text-align: right;
+		color: black;
+		text-align: left;
 		font-family: Courier New;
 	}	
